@@ -7,6 +7,7 @@ This repo contains my attempt at the Power Electronics (EEE F342) lab component 
 3. Experiment 3: Three Phase Uncontrolled (Diode) Rectifier
 4. Experiment 4: Single and Three phase uncontrolled rectifier with Capacitor Filter
 5. Experiment 5: Single Phase Fully Controlled Converter using R and R-L load
+6. Experiment 6: Single Phase Semi Controlled Converter R-L load (Asymmetrical and Symmetrical)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
