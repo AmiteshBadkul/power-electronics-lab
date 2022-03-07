@@ -9,6 +9,7 @@ This repo contains my attempt at the Power Electronics (EEE F342) lab component 
 5. Experiment 5: Single Phase Fully Controlled Converter using R and R-L load
 6. Experiment 6: Single Phase Semi Controlled Converter R-L load (Asymmetrical and Symmetrical)
 7. Experiment 7: Three Phase Fully Controlled Converter
+8. Experiment 8: DC to DC Converter
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
