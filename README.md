@@ -10,7 +10,8 @@ This repo contains my attempt at the Power Electronics (EEE F342) lab component 
 6. Experiment 6: Single Phase Semi Controlled Converter R-L load (Asymmetrical and Symmetrical)
 7. Experiment 7: Three Phase Fully Controlled Converter
 8. Experiment 8: DC to DC Converter
-9. Experiment 9: Single Phase, Phase controlled Bi-directional AC to AC controller using TRIAC with R and R-L load
+9. Experiment 9: Single Phase, Phase controlled Bi-directional AC to AC controller using TRIAC with R and R-L load1
+10. Experiment 10: Inverter Study
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
