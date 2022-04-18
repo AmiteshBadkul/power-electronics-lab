@@ -14,3 +14,8 @@ Battery Power Flow control model  consists of :
 - DC voltage source
 - Bidirectional DC to DC converter (Buck boost)
 - Common load for two sources
+
+
+## References
+1. Haque, M. R., & Razzak, M. A. (2021, April). A Buck Converter-based Battery Charging Controller for Electric Vehicles using Modified PI Control System. In 2021 IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS) (pp. 1-4). IEEE.
+2. Patel, J., Chandwani, H., Patel, V., & Lakhani, H. (2012, March). Bi-directional DC-DC converter for battery charging—Discharging applications using buck-boost switch. In 2012 IEEE Students' Conference on Electrical, Electronics and Computer Science (pp. 1-4). IEEE.
